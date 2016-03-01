@@ -28,7 +28,7 @@
   },
   "autoload": {
     "psr-4": {
-      "jeylabs\\broadcast-notifier\\": "src/"
+      "Jeylabs\\BroadcastNotifier\\": "src/"
     }
   },
   "autoload-dev": {
